@@ -1,0 +1,24 @@
+.slider-des{
+    text-align: left;
+}
+.slider-des h6{
+     color:#655e5e;
+}
+.slider-des h2{
+    color:#655e5e;
+    font-size: 50px;
+}
+.slider-des h4{
+    color:#655e5e;
+    font-size: 30px;
+  
+}
+.slider-des p{
+    color:#787878;
+}
+.slider-des a{
+    color:#787878;
+    padding: 5px 20px;
+    background: #393737;
+    color:#fff;
+}
